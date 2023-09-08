@@ -1,6 +1,8 @@
 ## Summary
 
-Display hidden details for Job Vacancies listed on the NYC Career Pages.
+Display hidden details on Job Vacancies listed on the NYC Career Pages.
+
+![Screenshot](app/images/screenshot.jpg)
 
 ## Usage
 
