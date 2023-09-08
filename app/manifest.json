@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Show me the Money",
   "version": "1.1.0",
-  "description": "Display hidden details on Job Vacancies listed on the NYC Career Pages.",
+  "description": "A Chrome Extension that uses jquery on the NYC Jobs site to highlight important Job Vacancy details hidden from the end-user.",
 
   "icons": {
     "16": "images/icon-16.png",

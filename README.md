@@ -1,6 +1,6 @@
 ## Summary
 
-Display hidden details on Job Vacancies listed on the NYC Career Pages.
+A Chrome Extension that uses jquery on the NYC Jobs site to highlight important Job Vacancy details hidden from the end-user.
 
 ![Screenshot](app/images/screenshot.jpg)
 
