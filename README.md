@@ -6,7 +6,7 @@ A Chrome Extension that uses jquery on the NYC Jobs site to highlight important 
 
 ## Usage
 
-To use this extension, clone this repo and use 'Load Unpacked Extension'.
+Clone this repo. In Chrome, navigate to chrome://extensions/. Toggle Developer mode 'on'. Add the show-me-the-money/app folder using the option 'Load unpacked'.
 Read more on [Development Basics](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked).
 
 ## Changelog
