@@ -11,10 +11,7 @@
   },
   "content_scripts": [
     {
-      "js": [
-        "vendor/jquery.min.js",
-        "content.js"
-      ],
+      "js": ["vendor/jquery.min.js", "content.js"],
       "matches": [
         "https://cityjobs.nyc.gov/job/*",
         "https://cityjobs.nyc.gov/jobs?*"
